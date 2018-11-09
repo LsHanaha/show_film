@@ -1,0 +1,34 @@
+{
+  "update_id": 633760096,
+  "callback_query": {
+    "id": "1964526845998717133",
+    "from": {
+      "id": 457402050,
+      "is_bot": false,
+      "first_name": "How_R",
+      "last_name": "U",
+      "username": "HAPKO_OWL",
+      "language_code": "ru-RU"
+    },
+    "message": {
+      "message_id": 110,
+      "from": {
+        "id": 609407669,
+        "is_bot": true,
+        "first_name": "Random Movie",
+        "username": "show_me_film_bot"
+      },
+      "chat": {
+        "id": 457402050,
+        "first_name": "How_R",
+        "last_name": "U",
+        "username": "HAPKO_OWL",
+        "type": "private"
+      },
+      "date": 1538324903,
+      "text": "Do you need smth else?"
+    },
+    "chat_instance": "2022972170735079466",
+    "data": "stop"
+  }
+}
